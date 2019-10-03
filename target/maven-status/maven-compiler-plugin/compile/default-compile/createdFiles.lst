@@ -1,0 +1,17 @@
+com/me/TryProtobuf/AddressBookProtos$Person$PhoneType$1.class
+com/me/TryProtobuf/AddressBookProtos$Person$Builder.class
+com/me/TryProtobuf/AddressBookProtos$PersonOrBuilder.class
+com/me/TryProtobuf/AddressBookProtos$AddressBook$1.class
+Test.class
+com/me/TryProtobuf/AddressBookProtos$AddressBookOrBuilder.class
+com/me/TryProtobuf/AddressBookProtos$Person.class
+com/me/TryProtobuf/AddressBookProtos$AddressBook$Builder.class
+com/me/TryProtobuf/AddressBookProtos$Person$PhoneNumberOrBuilder.class
+com/me/TryProtobuf/AddressBookProtos$AddressBook.class
+com/me/TryProtobuf/AddressBookProtos$Person$PhoneNumber$Builder.class
+com/me/TryProtobuf/AddressBookProtos$Person$PhoneNumber$1.class
+com/me/TryProtobuf/AddressBookProtos$Person$PhoneNumber.class
+com/me/TryProtobuf/AddressBookProtos$Person$PhoneType.class
+com/me/TryProtobuf/AddressBookProtos$1.class
+com/me/TryProtobuf/AddressBookProtos$Person$1.class
+com/me/TryProtobuf/AddressBookProtos.class
